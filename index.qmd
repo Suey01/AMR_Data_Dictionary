@@ -4,8 +4,10 @@ title: "AMR_Data_Dictionary"
 
 ##About
 
-Info about report
+This web page will provide metadata information about the data files used for the course Introduction to R, databases and
 
-```{r}
-1 + 1
-```
+Data files:
+- gapminder_data.csv
+- gapminder_wide.csv
+- hgt_wgt.csv
+- dig_health_hub_amr.csv
